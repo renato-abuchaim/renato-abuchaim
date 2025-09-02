@@ -24,5 +24,3 @@
 ## 🚀 Sobre mim
 Apaixonado por tecnologia, educação e por transformar vidas através da programação.  
 Tenho experiência em **suporte técnico, manutenção de hardware** e desenvolvimento de projetos web.
-
----
