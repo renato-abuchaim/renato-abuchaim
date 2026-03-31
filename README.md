@@ -25,5 +25,10 @@
 ---
 
 ## 🚀 Sobre mim
-Apaixonado por tecnologia, educação e por transformar vidas através da programação.  
-Tenho experiência em **suporte técnico, manutenção de hardware** e desenvolvimento de projetos web.
+Sou Engenheiro de Computação com mais de 7 anos de experiência em suporte técnico e infraestrutura de TI, atuando na administração de ambientes Linux/Windows e resolução de incidentes críticos.
+
+Atualmente estou em transição para a área de automação de processos (RPA), desenvolvendo projetos práticos com Python e N8N, com foco em otimização de tarefas, integração de sistemas e ganho de eficiência operacional.
+
+Tenho interesse em evoluir para automações mais avançadas, trabalhando com APIs, backend e soluções escaláveis.
+
+🚀 Sempre buscando aprender, automatizar e melhorar processos.
