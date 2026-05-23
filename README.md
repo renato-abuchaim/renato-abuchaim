@@ -82,7 +82,6 @@ Projetos focados em comunicação entre plataformas, automação de fluxos e cen
 - LangChain
 - APIs e Integrações
 - SQL e Processamento de Dados
-- Python para automação
 
 ---
 
