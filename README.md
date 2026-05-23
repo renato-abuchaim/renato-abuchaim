@@ -1,4 +1,5 @@
-### Olá! Eu sou Renato Pacheco Lopes Abuchaim 👋
+# Renato Abuchaim
+Automation • AI • Integrations • RPA • n8n • APIs
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-abuchaim/)
 
