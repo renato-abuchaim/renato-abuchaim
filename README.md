@@ -1,6 +1,6 @@
 # Renato Abuchaim
 
-### Automation Engineer | AI Integrations | n8n • APIs • RAG
+### Automação de Processos & IA Aplicada | n8n • APIs • Integrações • QA • DevOps Jr • Experiência em Operações e Infraestrutura
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-abuchaim/)
 
