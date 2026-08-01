@@ -1,6 +1,6 @@
 # Renato Abuchaim
 
-### Automação de Processos & IA Aplicada | n8n • APIs • Integrações • QA • DevOps Jr • Experiência em Operações e Infraestrutura
+### Analista de Suporte a Sistemas | Application Support | Technical Support | APIs | Linux | Cloud | Automação
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-abuchaim/)
 
